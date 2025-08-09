@@ -1,3 +1,4 @@
+![Screenshot 2025-08-09 190359 (1)](https://github.com/user-attachments/assets/768a6e30-70a3-4ee7-a980-5c61720a58fa)
 
 # Admin Panel Finder GUI
 
