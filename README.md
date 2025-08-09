@@ -1,3 +1,4 @@
+<img width="1297" height="770" alt="Screenshot 2025-08-09 190359" src="https://github.com/user-attachments/assets/976da25a-1fa7-49f5-99d5-0cef6b9d6027" />
 # Admin Panel Finder GUI
 
 A Python-based GUI tool to find potential admin panels on websites using built-in keywords or a custom wordlist.  
