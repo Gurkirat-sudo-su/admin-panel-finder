@@ -34,6 +34,11 @@ Run the tool:
 python admin_panel_finder.py
 ```
 
+
+https://github.com/user-attachments/assets/c38e5772-098e-47af-9905-4ee9813a293b
+
+
+
 1. Enter the target website URL (must start with `http` or `https`).
 2. (Optional) Load a custom wordlist.
 3. Click **Start Scan** to begin.
