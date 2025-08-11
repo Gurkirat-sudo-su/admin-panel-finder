@@ -36,10 +36,10 @@ python admin_panel_finder.py
 
 
 https://github.com/user-attachments/assets/c38e5772-098e-47af-9905-4ee9813a293b
-<img width="1083" height="425" alt="rejister php" src="https://github.com/user-attachments/assets/fe39c590-c631-4f84-8be6-970695d6cdcd" />
 
 
 
+<img width="900" height="400" alt="rejister php" src="https://github.com/user-attachments/assets/fe39c590-c631-4f84-8be6-970695d6cdcd" />
 1. Enter the target website URL (must start with `http` or `https`).
 2. (Optional) Load a custom wordlist.
 3. Click **Start Scan** to begin.
